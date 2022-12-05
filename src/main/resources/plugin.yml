@@ -1,0 +1,17 @@
+name: SunBlazePlugin
+version: '${project.version}'
+main: org.andreis.mc.SunBlazePlugin
+api-version: 1.19
+authors: [ AndreiS ]
+website: sunblaze.ddns.net
+commands:
+  hello: {}
+  informa: {}
+  sit: {}
+  take: {}
+  put: {}
+  keep: {}
+  ping: {}
+  jump: {}
+  near: {}
+  dim: {}
